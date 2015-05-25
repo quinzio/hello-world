@@ -1,3 +1,3 @@
 # hello-world
-My first GitHub project\n
+My first GitHub project \\
 The first of many projects.
